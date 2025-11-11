@@ -145,7 +145,7 @@ ANALISIS DETALLADO:
    Comentaste el codigo de error para evitar exceptions
 
 ✅ Ejercicio 10 - Comentar lineas con error: CORRECTO
-   Comentaste correctamente el codigo que generaria error
+   Comentaste+ correctamente el codigo que generaria error
    Uso correcto de comentarios de programacion
 
 RESULTADO: 10/10 ACIERTOS - 0 DESACIERTOS
